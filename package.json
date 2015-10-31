@@ -1,12 +1,16 @@
 {
   "name": "tm-autoload",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "autoload every js and coffee files of a directory",
+  "main": "lib/Autoload.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Thomas MELESI <t.melesi@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loleske/tm-autoload.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.4.0",
