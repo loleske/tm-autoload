@@ -1,6 +1,6 @@
 {
   "name": "tm-autoload",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "autoload every js and coffee files of a directory",
   "main": "lib/Autoload.js",
   "scripts": {
